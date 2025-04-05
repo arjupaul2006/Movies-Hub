@@ -116,6 +116,7 @@ select{
     border: 1px solid black;
     color: white;
     border-radius: 20px;
+    outline: none;
 }
 
 .nav_right button{
